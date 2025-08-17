@@ -27,7 +27,7 @@ It supports real-time communication via **WebSockets** and ensures match validat
 ## 📦 Setup
 ```bash
 # Clone repository
-git clone https://github.com/youruser/PONG.git
+git clone https://github.com/ImSatru/PONG
 cd PONG
 
 # Install dependencies
