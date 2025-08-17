@@ -14,13 +14,14 @@ It supports real-time communication via **WebSockets** and ensures match validat
 
 ---
 
+
 ## 🛠️ Tech Stack
 - [NestJS](https://nestjs.com/)  
-- [TypeScript](https://www.typescriptlang.org/)  
+- [React](https://react.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
 - [WebSockets](https://docs.nestjs.com/websockets/gateways)  
-- [TypeORM](https://typeorm.io/) or [Prisma](https://www.prisma.io/)  
-- [ESLint](https://eslint.org/) + [Prettier](https://prettier.io/)  
-- [Jest](https://jestjs.io/)  
+- [Prisma](https://www.prisma.io/)  
+- [Prettier](https://prettier.io/)  
 
 ---
 
