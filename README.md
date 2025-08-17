@@ -1,6 +1,6 @@
 # 🏓 PONG
 
-Backend application built with **NestJS** to manage ping pong matches, players, and rankings.  
+web application built with **NestJS** to manage ping pong matches, players, and rankings.  
 It supports real-time communication via **WebSockets** and ensures match validation between real accounts.
 
 ---
@@ -10,7 +10,7 @@ It supports real-time communication via **WebSockets** and ensures match validat
 - Match creation and validation (both players must accept).  
 - Real-time updates with WebSockets.  
 - Player ranking based on match results.  
-- Database integration (PostgreSQL / MySQL).  
+- Database integration (MongoDB / MySQL).  
 
 ---
 
