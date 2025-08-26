@@ -8,11 +8,10 @@ export class UsersController {
   constructor(private usersService: UsersService) {}
 
   @Post()
-  create(@Body() createUserDto: CreateUserDto) {
-    return 'Hawk 2 ahh';
-    /*
-    return this.usersService.create(createUserDto);
-    */
+  create(@Body() Body: CreateUserDto) {
+    console.log('Creating user with data:', Body);
+    return this.usersService.create(Body);
+
   }
 
   @Get()
