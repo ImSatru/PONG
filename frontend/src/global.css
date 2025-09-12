@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root {
+  --background: #202835;
+  --card: #222A38;
+  --primary: #B34B4B;
+  --secondary: #114FBD;
+  --foreground: #FFFFFF;
+  --muted: #2F4D83;
+  --muted-foreground: #333F51;
+}
+
+@theme inline {
+  --color-bg: var(--background);
+  --color-surface-dark: var(--card);
+  --color-accent-red: var(--primary);
+  --color-accent-blue: var(--secondary);
+  --color-on-dark: var(--foreground);
+  --color-muted: var(--muted);
+  --color-muted-2: var(--muted-foreground);
+}
+
+

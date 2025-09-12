@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=Rubik:ital,wght@0,300..900;1,300..900&family=VT323&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.rubik-medium {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+}
+
+.rubik-regular {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+}
